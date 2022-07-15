@@ -1,0 +1,32 @@
+.App {
+    background-color: #282c34;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.drawer {
+    background-color: gray;
+    margin: 2rem;
+    width: 250;
+}
+
+.heading {
+    width: fit-content;
+    margin-left: 2%;
+}
+
+.mnHeading {
+    text-align: center;
+    font-size: 6rem;
+}
+
+.headingDescription {
+    margin-top: .5rem;
+}
+
+.headingContainer {
+    width: 100%;
+    height: 12rem;
+    padding: 1rem;
+    margin-top: 13rem;
+}
